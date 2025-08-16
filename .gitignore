@@ -1,0 +1,23 @@
+# Ignore environment variable files
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+.env.bak
+
+# VS Code settings
+.vscode/
+
+# macOS files
+.DS_Store
